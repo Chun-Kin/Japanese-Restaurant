@@ -1,4 +1,4 @@
-<h1>A Japanese Restaurant with payment method using plain: </h1>h1>
+<h1>A Japanese Restaurant with payment method using plain: </h1>
 <ul>
   <li>HMTL</li>
   <li>CSS</li>
